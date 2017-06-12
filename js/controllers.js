@@ -7,7 +7,7 @@ PersPagesApp.controller('HomeController', function ($scope) {
   $scope.missions_title = "Missions :";
   $scope.missions = "Gestion et maintenance du parc informatique, garantir la disponibilité des ressources, faire évoluer les services, conseil et support utilisateurs.";
   $scope.activites_title = "Activités :";
-  $scope.activites = "- Administration des ressources de calcul\n- Développement web\n";
+  $scope.activites = "- Administration des ressources de calcul\n- Administration du parc informatique\n- Développement web\n- Support utilisateurs\n- Assistant de prévention";
   $scope.contact_title = "Me contacter :";
   $scope.postal_address = "Laboratoire Jean Kuntzmann\nBâtiment IMAG\n700 avenue Centrale\n38400 Saint Martin d'Hères";
   $scope.office = "101";
